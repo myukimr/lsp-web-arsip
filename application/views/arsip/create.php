@@ -1,5 +1,5 @@
 <div class="m-3">
-    <h2>Arsip Surat >> Unggah</h2>
+    <h2>Arsip Surat | Unggah</h2>
     <p class="w-50">Unggah surat yang telah terbit pada form ini untuk diarsipkan. Catatan: </p>
     <div class="mx-4">
         <li>Gunakan file berformat pdf.</li>

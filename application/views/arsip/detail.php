@@ -1,5 +1,5 @@
 <div class="m-3">
-    <h2>Arsip Surat >> Lihat</h2>
+    <h2>Arsip Surat | Detail</h2>
     <?= $this->load->view('alert', null, true) ?>
     <table>
         <tbody>
@@ -29,6 +29,6 @@
     <div>
         <a name="" id="" class="btn btn-secondary" href="<?= base_url('/') ?>" role="button">Kembali</a>
         <a name="" id="" class="btn btn-success" href="<?= base_url('arsip/download/' . $arsipData->id_arsip) ?>" role="button">Unduh</a>
-        <a name="" id="" class="btn btn-primary" href="<?= base_url('arsip/edit/' . $arsipData->id_arsip) ?>" role="button">Edit/Ganti File</a>
+        <a name="" id="" class="btn btn-primary" href="<?= base_url('arsip/edit/' . $arsipData->id_arsip) ?>" role="button">Edit File</a>
     </div>
 </div>
